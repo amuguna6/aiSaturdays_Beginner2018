@@ -12,9 +12,5 @@ ourList
 
 $ cd aiSaturdays_Beginner2018
 $ git pull origin master
-$ git checkout -b amuguna6@gmail.com master
-$ git branch
-* amuguna6@gmail.com
-  master
-    $ git push origin -u amuguna6@gmail.com
+
     print(belowFive)
